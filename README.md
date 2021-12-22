@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ricardobianchin, from Rio de Janeiro
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Pyton
-- 💞️ I’m looking to collaborate on Delphi and Python projects
+- 🌱 I’m currently learning Logic Programming
+- 💞️ I’m looking to collaborate on Delphi, Python, Javascript projects
 - 📫 ricardobianchin@gmail.com
 
 <!---
